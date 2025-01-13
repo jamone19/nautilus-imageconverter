@@ -1,5 +1,8 @@
 ### Nautilus Image Converter (ConvertImage.sh)
 
+
+![Ubuntu Linux Nautilus Image Converte](imagescreen.png "Ubuntu Linux Nautilus Image Converter")
+
 #### Overview
 `ConvertImage.sh` is a Bash script that integrates with the Nautilus file manager in Linux, providing a convenient right-click option to convert image files to different formats. Utilizing `zenity` for a graphical interface and `convert` from ImageMagick, it allows users to easily convert images to JPEG, PNG, or WEBP formats.
 
